@@ -1,1 +1,1 @@
-# EdgecutUltimateCore
+# Edgecut Ultimate Core
